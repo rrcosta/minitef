@@ -1,0 +1,14 @@
+# Logfile created on 2023-11-23 16:52:07 -0300 by logger.rb/v1.5.3E, [2023-11-24T17:06:36.588771 #118219] ERROR -- : Oops, something went wrong. Error: undefined method `merge' for "POST: /agente/clisitef/startTransaction ":String
+E, [2023-11-24T17:06:53.666542 #118219] ERROR -- : Oops, something went wrong. Error: undefined method `merge!' for "POST: /agente/clisitef/startTransaction ":String
+I, [2023-11-24T17:07:16.778498 #118219]  INFO -- : POST: /agente/clisitef/startTransaction  - Params:: 
+ {"sitefIp"=>"127.0.0.1", "storeId"=>"00000000", "terminalId"=>"REST0001", "functionId"=>"3", "trnAmount"=>"100", "taxInvoiceNumber"=>"1234", "taxInvoiceDate"=>"20231124"}
+I, [2023-11-24T17:07:30.521227 #118219]  INFO -- : GET: / 
+I, [2023-11-24T17:07:30.778936 #118219]  INFO -- : GET: / 
+I, [2023-11-24T17:07:31.001462 #118219]  INFO -- : GET: / 
+I, [2023-11-24T17:07:31.218370 #118219]  INFO -- : GET: / 
+I, [2023-11-24T17:07:55.092461 #118219]  INFO -- : GET: /articles/index 
+I, [2023-11-24T17:08:03.101584 #118219]  INFO -- : GET: /articles 
+I, [2023-11-24T17:10:06.043920 #118219]  INFO -- : GET: /articles 
+I, [2023-11-24T17:10:11.077161 #118219]  INFO -- : GET: /agente/clisitef/continueTransaction 
+I, [2023-11-24T17:10:17.102209 #118219]  INFO -- : GET: /agente/clisitef/continueTransaction 
+I, [2023-11-24T17:10:20.440001 #118219]  INFO -- : GET: /agente/clisitef/continueTransaction 
